@@ -243,7 +243,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\cameraController.cs" />
     <Compile Include="Assets\scripts\collection.cs" />
-    <Compile Include="Assets\scripts\playercontroller.cs" />
+    <Compile Include="Assets\scripts\Playercontroller.cs" />
     <Compile Include="Assets\scripts\rotator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
